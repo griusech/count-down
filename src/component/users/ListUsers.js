@@ -38,7 +38,6 @@ const ListUsers = () => {
                     </div>
                 </div>
             )}
-
         </>
     )
 }
