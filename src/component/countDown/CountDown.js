@@ -100,7 +100,7 @@ const CountDown = () => {
               ESTADISTICA DE USUARIOS
             </div>
             {/* TABLA DE ESTADÍSTICAS */}
-            <table className="table table-striped table-bordered border-info m-auto w-50 mt-2">
+            <table className="table table-striped table-bordered border-info m-auto w-50 mt-2 mb-5">
               <thead>
                 <tr>
                   <th scope="col">COLORES</th>

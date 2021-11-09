@@ -45,3 +45,15 @@
     width: 130px;
     height: 40px;
 }
+
+@media only screen and (max-width: 991px) {
+    .bg-image {
+        height: 40vh;
+    }
+}
+
+@media only screen and (max-width: 418px) {
+    .bg-image {
+        height: 50vh;
+    }
+}
