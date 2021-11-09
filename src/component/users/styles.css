@@ -1,0 +1,18 @@
+
+.card-users {
+    border-top: 12px solid;
+    border-color: #17A2B8;
+    width: 50%;
+    min-width: 65%;
+}
+
+.text-users {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: 600;
+    color: #17A2B8
+}

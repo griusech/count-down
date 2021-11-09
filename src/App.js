@@ -1,6 +1,6 @@
 
 import './App.css';
-import CountDown from './component/CountDown';
+import CountDown from './component/countDown/CountDown';
 
 function App() {
   return (

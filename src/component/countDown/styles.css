@@ -1,0 +1,24 @@
+.text-color{
+    font-size: 18px;
+    font-weight: 600;
+}
+.crad-color {
+    border-radius: 4px;
+    width: 35px;
+    height: 35px;
+    margin-left: 0.5rem;
+}
+
+.text-table {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.footer {
+    position: relative;
+    background: #3E4551;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;    
+}
