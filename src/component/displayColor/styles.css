@@ -57,3 +57,9 @@
         height: 50vh;
     }
 }
+
+@media only screen and (max-width: 360px) {
+    .bg-image {
+        height: 60vh;
+    }
+}

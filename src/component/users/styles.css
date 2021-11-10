@@ -16,3 +16,9 @@
     font-weight: 600;
     color: #17A2B8
 }
+
+@media only screen and (max-width: 420px) {
+    .card-users {
+        width: 100%;
+    }
+}
