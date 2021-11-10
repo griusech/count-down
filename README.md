@@ -12,11 +12,16 @@ Tan solo clonas el repositorio y luego ejectuas el siguiente comando
 npm install
 ```
 
-Una vez hecho esto, ejecutamos el siguiente comando para poder levantar la App
+Una vez hecho esto, ejecutamos el siguiente comando para poder levantar la App de manera local
 
 ```
 npm start
 ```
+
+# ¿Dónde puede visualizar el sitio alojado?
+
+Solo ingrese al siguiente Link:
+https://griusech.github.io/count-down/
 
 # Imagen de muestra de la App
 
