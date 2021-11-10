@@ -20,4 +20,4 @@ npm start
 
 # Imagen de muestra de la App
 
-<p><img src="https://ibb.co/GHcWchc"/></p> 
+<p><img src="https://i.ibb.co/SfRtRLR/count-Down.png" alt="count-Down" border="0"></p> 
