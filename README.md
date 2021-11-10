@@ -12,8 +12,12 @@ Tan solo clonas el repositorio y luego ejectuas el siguiente comando
 npm install
 ```
 
-Una Vez hecho esto, ejecutamos el siguiente comando para poder levantar la app
+Una vez hecho esto, ejecutamos el siguiente comando para poder levantar la App
 
 ```
-npm startl
+npm start
 ```
+
+# Imagen de muestra de la App
+
+<p><img src="https://ibb.co/GHcWchc"/></p> 
